@@ -1,0 +1,14 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f7fa;
+  direction: rtl;
+}
+.table th, .table td {
+  text-align: center;
+}
+.header {
+  background-color: #007bff;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
